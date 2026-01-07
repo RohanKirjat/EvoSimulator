@@ -11,7 +11,7 @@ EvoSim is a dynamic 2D simulation where entities learn to avoid threats, collect
 
 ## How It Works
 
-The simulation starts with two entities (one male and one female) that must collect food to survive and avoid randomly spawning threats. As they encounter threats, they learn to avoid them, improving over time. The program tracks each entity's collisions with threats and presents the data graphically at the end.
+The simulation starts with two entities (one male and one female) that must collect food to survive and avoid randomly spawning threats. As they encounter threats, they learn to avoid them , improving over time. The program tracks each entity's collisions with threats and presents the data graphically at the end.
 
 ### Key Components
 

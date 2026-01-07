@@ -57,4 +57,4 @@ The entities adapt their behavior based on these interactions, improving their c
 - **Reproduction**: Add a reproduction feature where entities can reproduce and create new generations that inherit learned behaviors.
 
 ## Author
-**Suyash Thamake**
+**Rohan Kirjat**
